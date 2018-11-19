@@ -1,0 +1,50 @@
+body {
+    background-color: lightblue;
+}
+h1{
+	color: black;
+	text-align: center;
+}
+p{
+	color: green;
+}
+div{
+	background-color: red;
+/*	width: 400px, td;
+	height: 600px;*/
+	margin: 30px;
+	padding: 20px;
+	font-family: Arial, calibre;
+	/*border: 3px solid blue;*/
+	border: 3px dotted blue;
+}
+#top{
+	font-size: 36px;
+}
+#bottom{
+	font-size: 20px;
+}
+#center{
+	font-size: 10;
+}
+.name{
+	font-weight: bold;
+	color: blue;
+}
+table{
+	border:2px solid black;
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	/*border-collapse: collapse;*/
+}
+th, td{
+	border:1px solid black;	
+	padding: 5px;
+}
+
+th{
+	color: blue;
+	font-size: 20px;
+}
